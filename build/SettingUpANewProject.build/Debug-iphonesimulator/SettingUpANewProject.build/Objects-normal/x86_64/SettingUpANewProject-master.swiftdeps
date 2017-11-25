@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "d86350295072026dc287921e5e48c121"
+build_time: [1511642170, 592626000]
+inputs:
+  "/Users/Vidyadhar/Desktop/Github/SettingUpANewProject/SettingUpANewProject/ViewController.swift": [1511642168, 0]
+  "/Users/Vidyadhar/Desktop/Github/SettingUpANewProject/SettingUpANewProject/AppDelegate.swift": [1511642168, 0]
